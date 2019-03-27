@@ -1,0 +1,1 @@
+Hand_labeling_def.py is for hand_labeling.Logistic Regression.py is for parameter estimation for two-classifier.Softmax_2.py is for parameter estimation for multi-classifier.
